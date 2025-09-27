@@ -13,8 +13,8 @@ API_HASH = "7fd279b83c40a0d4228b89978685638a"
 SESSION_STRING = "wQQddWAvd90uN+mfpX1+1/hPW5PZQWMtCl67G+kBd+yOqXdzVd9DAeulJLtfP8aHf52g39e5h5Y+7djtitP4rw=="
 
 # --- Channel IDs ---
-SOURCE_CHANNEL = "@goldmasterclub"
-TARGET_CHANNEL = "@forthgoldtrader"
+SOURCE_CHANNEL = "@Signals_Pumps_Free"
+TARGET_CHANNEL = "@aixauusdbtcusd_trade"
 
 # --- Replacement Settings ---
 REPLACE_WITH = "@aimanagementteambot"
